@@ -1,3 +1,3 @@
 # rudra-demo
 <br>
-Author :- Rudra Prasad Mangaraj
+Author :- Rudra Prasad
